@@ -1,0 +1,13 @@
+{
+  "name": "telegram-blog-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@azure/storage-blob": "^12.17.0",
+    "telegraf": "^4.15.0",
+    "dotenv": "^16.3.1"
+  }
+}
